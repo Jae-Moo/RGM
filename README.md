@@ -35,7 +35,7 @@ python3 train.py --exp rgm-kld-d --dataset celeba_256 --image_size 256  --num_ch
 ```
 
 #### Restoration Task (SR and Colorization) ####
-The commands for restoration tasks can found in "restore.sh" file.
+The commands for restoration tasks can be found in "restore.sh" file.
 
 ## Pretrained Checkpoints ##
 Pretrained checkpoints on CIFAR-10 (RGM-SR-D) and CelebA HQ 256 (RGM-KLD-D) is available at [Google drive directory](https://drive.google.com/file/d/1S7KpOrWKxknDABfYJ5L9R-7Y16MVbW7q/view?usp=drive_link).
